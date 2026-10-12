@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = janninperrine@gmail.com
+	name = perrine jannin
